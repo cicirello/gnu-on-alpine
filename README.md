@@ -5,7 +5,7 @@ A lightweight docker image for shell scripting with GNU tools (Alpine plus bash,
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine)
 [![Docker Pulls](https://img.shields.io/docker/pulls/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/gnu-on-alpine?logo=github)](https://github.com/cicirello/gnu-on-alpine/releases)
-[![build](https://github.com/cicirello/gnu-on-alpine/workflows/build/badge.svg)](https://github.com/cicirello/gnu-on-alpine/actions)
+[![build](https://github.com/cicirello/gnu-on-alpine/workflows/build/badge.svg)](https://github.com/cicirello/gnu-on-alpine/actions?query=workflow%3Abuild)
 [![GitHub](https://img.shields.io/github/license/cicirello/gnu-on-alpine)](https://github.com/cicirello/gnu-on-alpine/blob/master/LICENSE)
 
 ## Summary
