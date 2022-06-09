@@ -1,0 +1,21 @@
+name: delete-old
+
+on:
+  workflow_dispatch:
+
+jobs:
+
+  delete:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Prune
+      uses: vlaurin/action-ghcr-prune@0.4.0
+      with:
+        token: ${{ secrets.DELETE_TOKEN }}
+        organization: cicirello
+        container: gnu-on-alpine
+        dry-run: true # Dry-run first, then change to `false`
+        older-than: 60 # days
+        untagged: true
