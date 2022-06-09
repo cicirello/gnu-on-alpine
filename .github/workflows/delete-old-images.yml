@@ -14,7 +14,7 @@ jobs:
       uses: vlaurin/action-ghcr-prune@v0.4.0
       with:
         token: ${{ secrets.DELETE_TOKEN }}
-        organization: cicirello
+        organization: ""
         container: gnu-on-alpine
         dry-run: true # Dry-run first, then change to `false`
         older-than: 60 # days
