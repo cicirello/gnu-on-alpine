@@ -16,6 +16,6 @@ jobs:
         token: ${{ secrets.DELETE_TOKEN }}
         organization: ""
         container: alpine-plus-plus
-        dry-run: true # Dry-run first, then change to `false`
+        dry-run: false # Dry-run first, then change to `false`
         older-than: 1 # days
         untagged: true
