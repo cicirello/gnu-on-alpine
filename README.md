@@ -1,12 +1,13 @@
 # gnu-on-alpine
 A lightweight docker image for shell scripting with GNU tools (Alpine plus bash, coreutils, findutils, gawk)
 
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/cicirello/gnu-on-alpine?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine)
-[![Docker Pulls](https://img.shields.io/docker/pulls/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/gnu-on-alpine?logo=github)](https://github.com/cicirello/gnu-on-alpine/releases)
-[![build](https://github.com/cicirello/gnu-on-alpine/workflows/build/badge.svg)](https://github.com/cicirello/gnu-on-alpine/actions?query=workflow%3Abuild)
-[![GitHub](https://img.shields.io/github/license/cicirello/gnu-on-alpine)](https://github.com/cicirello/gnu-on-alpine/blob/master/LICENSE)
+| __Docker Hub__ | [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/cicirello/gnu-on-alpine?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine) [![Docker Pulls](https://img.shields.io/docker/pulls/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine) |
+| :--- | :--- |
+| __GitHub__ | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/cicirello/gnu-on-alpine?logo=github)](https://github.com/cicirello/gnu-on-alpine/releases) |
+| __Image Stats__ | [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine) |
+| __Build Status__ | [![build](https://github.com/cicirello/gnu-on-alpine/workflows/build/badge.svg)](https://github.com/cicirello/gnu-on-alpine/actions/workflows/docker-image.yml) |
+| __License__ | [![License](https://img.shields.io/github/license/cicirello/gnu-on-alpine)](https://github.com/cicirello/gnu-on-alpine/blob/master/LICENSE) |
+| __Support__ | [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/cicirello) [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](https://liberapay.com/cicirello) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/cicirello) |
 
 ## Summary
 The gnu-on-alpine Docker image is designed
