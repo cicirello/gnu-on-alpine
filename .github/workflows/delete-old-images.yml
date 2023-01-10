@@ -17,5 +17,5 @@ jobs:
         organization: ""
         container: gnu-on-alpine
         dry-run: true # Dry-run first, then change to `false`
-        older-than: 180 # days
-        untagged: true
+        keep-younger-than: 180 # days
+        prune-untagged: true
