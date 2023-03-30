@@ -19,6 +19,8 @@ image. The gnu-on-alpine image adds
 bash, findutils, coreutils, and gawk on top 
 of Alpine Linux.
 
+For more information, see my blog post on DEV: [gnu-on-alpine and alpine-plus-plus: Two Lightweight Containers for Implementing GitHub Container Actions with Shell Scripting](https://dev.to/cicirello/gnu-on-alpine-and-alpine-plus-plus-two-lightweight-containers-for-implementing-github-container-actions-with-shell-scripting-360i).
+
 ## Multiplatform Image
 
 gnu-on-alpine has the following platforms available:
