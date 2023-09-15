@@ -1,5 +1,9 @@
 # gnu-on-alpine
-A lightweight docker image for shell scripting with GNU tools (Alpine plus bash, coreutils, findutils, gawk)
+
+[![gnu-on-alpine - A lightweight Docker container for shell scripting with GNU tools on Alpine Linux)](https://actions.cicirello.org/images/gnu-on-alpine640.png)](#gnu-on-alpine)
+
+Website for our GitHub Actions and tools for developing them: https://actions.cicirello.org/
+
 
 | __Docker Hub__ | [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/cicirello/gnu-on-alpine?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine) [![Docker Pulls](https://img.shields.io/docker/pulls/cicirello/gnu-on-alpine?logo=docker)](https://hub.docker.com/r/cicirello/gnu-on-alpine) |
 | :--- | :--- |
